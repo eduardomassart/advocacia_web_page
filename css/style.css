@@ -62,7 +62,6 @@ body {
 	display: inline-block;
 	vertical-align: top;
 	font-size: 1.5em;
-	font-style: italic;
 	margin: 18px 0;
 	padding: 0 6%;
 	color: white;
@@ -72,6 +71,7 @@ body {
 
 
 #back-top {
+	display: none;
 	position: fixed;
 	right: 20px;
 	bottom: 20px;
